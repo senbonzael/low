@@ -1,0 +1,6 @@
+my first work with git
+
+some big changes
+
+
+new branch
